@@ -3,6 +3,8 @@ youbot_ros_tools
 
 A [KUKA youBot][1] description package for ROS Hydro to be used for simulation in Gazebo 1.9.
 
+Youtube:https://www.youtube.com/watch?v=U2cbUQkFZ0U
+
 ## What's inside
 *youbot_ros_tools* is a [catkin][2] package and is divided in five parts, each of which groups a specific set of functionalities. Its structure reflects the one proposed in the Gazebo [ROS integration guidelines][3].
 
